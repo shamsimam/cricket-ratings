@@ -1,2 +1,3 @@
 # cricket-ratings
-Summary of ICC Reliance Cricket Ratings
+
+Provides different summaries of [ICC Reliance Cricket Ratings](http://www.relianceiccrankings.com/)
